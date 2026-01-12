@@ -1,0 +1,15 @@
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.cache
+.DS_Store
+Thumbs.db
+*.log
+packages/
+TestResults/
+.idea/
+*.DotSettings.user
+nul
+.claude/
