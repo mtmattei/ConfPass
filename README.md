@@ -9,7 +9,7 @@ ConfPass demonstrates that Uno Platform can render sophisticated, design-forward
 ## Prerequisites
 
 - .NET 10 SDK
-- Visual Studio 2022 or VS Code with C# Dev Kit
+- Visual Studio 2022/26 / VS Code with C# Dev Kit/ Claude Code / Codex/ Cursor
 - Uno Platform extension
 
 ## Getting Started
@@ -18,7 +18,7 @@ ConfPass demonstrates that Uno Platform can render sophisticated, design-forward
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/AIPMMAgent/ConfPass.git
+   git clone https://github.com/mtmattei/ConfPass.git
    cd ConfPass/ConfPass
    ```
 
